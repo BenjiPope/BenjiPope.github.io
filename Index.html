@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<!--This is a Personal website of Benjamin Pope-->
+<html>
+		<head>
+		<title>Benji | Home</title>
+		<link rel    ='stylesheet' type='text/css' href='Benji.css'>
+		<script src  ="jquery-1.9.1.min.js" type="text/javascript"></script>
+				<script type="text/javascript">
+	    $(document).ready(function() {
+	        $("section").css("display", "none");
+	    });
+		</script>
+		<script type="text/javascript">
+		$(document).ready(function() {
+		    $("section").css("display", "none");
+		 
+		    $("section").fadeIn(2000);
+		 
+		    $("a.transition").click(function(event){
+		        event.preventDefault();
+		        linkLocation = this.href;
+		        $("section").fadeOut(1000, redirectPage);      
+		    });
+		         
+		    function redirectPage() {
+		        window.location = linkLocation;
+		    }
+		});
+		</script>
+		</head>
+<body>
+		<div class='container'>
+			<br>
+			<header>
+					<img src='Benji.png' alt='Benji Logo' class='minimise'>
+			</header>
+			<hr width='73%'>
+			<nav>
+				<ul>
+					<li><a href='Index.html'class='transition'>Home</a></li>
+					<li><a href='About.html' class='transition'>About Me</a></li>
+					<li><a href='Portfolio.html' class='transition'>Portfolio</a></li>
+					<li><a href='Blog.html' class='transition'>Blog</a></li>
+					<li><a href='Contact.html' class='transition'>Contact</a></li>
+				</ul>
+			</nav>
+			<section>
+				<table>
+					<tr>
+						<td><a href='http://www.facebook.com/project8en' target='_new'><img src='FBicon.png' alt='Facebook' class='center'></a></td>
+						<td><a href='http://www.twitter.com/project8en' target='_new'><img src='TwitterIcon.png' alt='Twitter' class='center'></a></td>
+						<td><a href='https://soundcloud.com/benjipope'target='_new'><img src='SCicon.png' alt='Sound Cloud' class='center'></a></td>
+						<td><a href='http://www.instagram.com/benji4pope' target='_new'><img src='InstaIcon.png' alt='Instagram' class='center'></a></td>
+					</tr>		
+				</table>
+			</section>
+		</div>
+</body>
+</html>

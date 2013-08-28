@@ -1,0 +1,100 @@
+/* Container Propities */
+.container {
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
+/* Centre Images and icons */
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.minimise {
+	height: 50%;
+	width: 50%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+/* Navagational Menu */
+nav ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	text-align: center;
+	padding: 1.5em;
+}
+nav ul li { 
+	display: inline; 
+	padding-left: .5em;
+	padding-right: .5em;
+}
+
+nav ul li a {
+	text-decoration: none;
+	padding: .2em 1em;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 1em;
+}
+a:link {color:#A9A9A9;}     
+a:visited {color:#A9A9A9;} 
+a:hover {color:#EE008C;}  
+a:active {color:#EE008C;} 
+/* Section Layout */
+section h1 {
+	padding: .2em 1em;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	text-align: center;
+	color: #3FA9F5;
+}
+section p {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	color: #A9A9A9;
+}
+section ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	padding: 1.5em;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	list-style-type: none;
+	color: #3FA9F5;
+}
+section ul li a {
+	text-decoration: none;
+	color: #3FA9F5;
+}
+section a:link {color: #3FA9F5;}
+section a:hover {color:#EE008C;} 
+section table {
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	padding: 2em;
+}
+/* Footer */
+footer p {
+	text-align: center;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	color: #A9A9A9;
+}
+/* Tumblr settings */
+.tumblr_quote {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	color: #A9A9A9;
+}
+.tumblr_source {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color: #3FA9F5;
+}
+.tumblr_title {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color: #3FA9F5;
+}
+ol.tumblr_posts {
+	list-style-type: none;
+}
+.tumblrdisplay {
+	display: none;
+}
