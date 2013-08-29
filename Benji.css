@@ -51,6 +51,7 @@ section h1 {
 section p {
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 	color: #A9A9A9;
+	width: 73%;
 }
 section ul {
 	margin: 0;
