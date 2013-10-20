@@ -84,16 +84,22 @@ footer p {
 	color: #A9A9A9;
 }
 .tumblr_source {
-	font-family: "Comic Sans MS", cursive, sans-serif;
-	color: #3FA9F5;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #2c3e50;
 }
 .tumblr_title {
-	font-family: "Comic Sans MS", cursive, sans-serif;
-	color: #3FA9F5;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #2c3e50;
 }
 ol.tumblr_posts {
 	list-style-type: none;
 }
 .tumblrdisplay {
 	display: none;
+	margin-left: auto;
+	margin-right: auto;
+}
+.tumblr_caption {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #2c3e50;
 }
