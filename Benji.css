@@ -74,15 +74,9 @@ section table {
 }
 /*Tumbnails for portfolio */
 img.thumb {
+	text-align: center;
 	width: 300px;
-	padding-right: auto;
-	padding-left: auto;
 }
-.box {
-	padding-left: auto;
-	padding-right: auto;
-}
-
 /* thumbnail caption */
 p.caption {
 	text-align: center;
