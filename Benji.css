@@ -75,8 +75,8 @@ section table {
 /*Tumbnails for portfolio */
 img.thumb {
 	width: 300px;
-	margin-right: auto;
-	margin-left: auto;
+	padding-right: auto;
+	padding-left: auto;
 }
 .box {
 	padding-left: auto;
