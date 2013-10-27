@@ -78,8 +78,7 @@ img.thumb {
 }
 /* thumbnail caption */
 p.caption {
-	margin-right: auto;
-	margin-left: auto;
+	text-align: center;
 	font-family: "arial black", Gadget, sans-serif;
 	color: #34495e;
 }
