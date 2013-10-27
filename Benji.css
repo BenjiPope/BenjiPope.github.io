@@ -72,6 +72,11 @@ section table {
 	width: 100%;
 	padding: 2em;
 }
+/*Tumbnails for portfolio */
+img.thumb {
+	height: 300px;
+	width: 300px;
+}
 /* Footer */
 footer p {
 	text-align: center;
