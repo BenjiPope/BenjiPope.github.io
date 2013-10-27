@@ -78,6 +78,11 @@ img.thumb {
 	margin-right: auto;
 	margin-left: auto;
 }
+.box {
+	padding-left: auto;
+	padding-right: auto;
+}
+
 /* thumbnail caption */
 p.caption {
 	text-align: center;
