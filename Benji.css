@@ -76,6 +76,13 @@ section table {
 img.thumb {
 	width: 300px;
 }
+/* thumbnail caption */
+p.caption {
+	margin-right: auto;
+	margin-left: auto;
+	font-family: "arial black", Gadget, sans-serif;
+	color: #34495e;
+}
 /* Footer */
 footer p {
 	text-align: center;
