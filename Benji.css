@@ -111,7 +111,8 @@ ol.tumblr_posts {
 .tumblrdisplay {
 	display: none;
 }
-.p1 img {
+img {
 	margin-right: auto;
 	margin-left: auto;
+	width: 268;
 }
