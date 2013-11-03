@@ -111,3 +111,11 @@ ol.tumblr_posts {
 .tumblrdisplay {
 	display: none;
 }
+img.tumblr_body
+{
+	width: 268px;
+}
+.tumblr_body {
+	margin-left: auto;
+	margin-right: auto;
+}
