@@ -112,7 +112,6 @@ ol.tumblr_posts {
 	display: none;
 }
 img {
-	margin-right: auto;
-	margin-left: auto;
-	width: 268;
+	padding-left: 12%;
+	height: 400px;
 }
