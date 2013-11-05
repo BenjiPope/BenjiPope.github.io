@@ -107,7 +107,7 @@ ol.tumblr_posts {
 	list-style-type: none;
 	padding: 0px;
 }
-.tumblr_post .tumblr_text_post {
+.tumblr_post {
 	margin-left: auto;
 	margin-right: auto;
 	padding-bottom: 40px;
