@@ -110,6 +110,7 @@ ol.tumblr_posts {
 .tumblr_post .tumblr_text_post {
 	margin-left: auto;
 	margin-right: auto;
+	padding-bottom: 40px;
 }
 .tumblrdisplay {
 	display: none;
