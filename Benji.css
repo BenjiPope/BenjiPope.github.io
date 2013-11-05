@@ -71,6 +71,7 @@ section table {
 	margin-right: auto;
 	width: 100%;
 	padding: 2em;
+	text-align: center;
 }
 /*Tumbnails for portfolio */
 img.thumb {
