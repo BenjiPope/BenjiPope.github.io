@@ -38,14 +38,14 @@ nav ul li a {
 }
 a:link {color:#A9A9A9;}     
 a:visited {color:#A9A9A9;} 
-a:hover {color:#EE008C;}  
-a:active {color:#EE008C;} 
+a:hover {color:#34495e;}  
+a:active {color:#34495e;} 
 /* Section Layout */
 section h1 {
 	padding: .2em 1em;
-	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
 	text-align: center;
-	color: #3FA9F5;
+	color: #34495e;
 }
 section p {
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
@@ -65,7 +65,7 @@ section ul li a {
 	color: #3FA9F5;
 }
 section a:link {color: #3FA9F5;}
-section a:hover {color:#EE008C;} 
+section a:hover {color:#34495e;} 
 section table {
 	margin-left: auto;
 	margin-right: auto;
