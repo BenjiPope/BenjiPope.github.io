@@ -114,7 +114,8 @@ ol.tumblr_posts {
 	display: none;
 }
 p img {
-	padding-left: 12%;
+	padding-left: auto;
+	padding-right: auto;
 	width: 400px;
 }
 .tumblr_video {
