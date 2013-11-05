@@ -106,7 +106,7 @@ footer p {
 ol.tumblr_posts {
 	list-style-type: none;
 }
-.tumblr_post tumblr_text_post {
+.tumblr_post .tumblr_text_post {
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -114,8 +114,7 @@ ol.tumblr_posts {
 	display: none;
 }
 p img {
-	padding-left: auto;
-	padding-right: auto;
+	padding-left: 15%;
 	width: 400px;
 }
 .tumblr_video {
