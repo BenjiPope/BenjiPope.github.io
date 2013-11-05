@@ -38,8 +38,8 @@ nav ul li a {
 }
 a:link {color:#A9A9A9;}     
 a:visited {color:#A9A9A9;} 
-a:hover {color:#34495e;}  
-a:active {color:#34495e;} 
+a:hover {color:#34495E;}  
+a:active {color:#34495E;} 
 /* Section Layout */
 section h1 {
 	padding: .2em 1em;
@@ -65,7 +65,7 @@ section ul li a {
 	color: #3FA9F5;
 }
 section a:link {color: #3FA9F5;}
-section a:hover {color:#34495e;} 
+section a:hover {color:#34495E;} 
 section table {
 	margin-left: auto;
 	margin-right: auto;
