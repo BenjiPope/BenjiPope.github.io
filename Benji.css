@@ -103,7 +103,7 @@ footer p {
 	font-size: 2em;
 	text-align: center;
 }
-ol.tumblr_posts {
+.tumblr_posts {
 	list-style-type: none;
 	display: none;
 }
