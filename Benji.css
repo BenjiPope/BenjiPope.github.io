@@ -76,6 +76,9 @@ section table {
 img.apos {
 	padding-left: 17%;
 }
+.footer {
+	color: #DDEBE7;
+}
 /*Tumbnails for portfolio */
 img.thumb {
 	width: 300px;
