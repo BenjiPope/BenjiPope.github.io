@@ -72,6 +72,10 @@ section table {
 	width: 100%;
 	padding: 2em;
 }
+/*Alex's Link */
+img.apos {
+	padding-left: 50px;
+}
 /*Tumbnails for portfolio */
 img.thumb {
 	width: 300px;
